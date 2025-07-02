@@ -2,8 +2,9 @@
 a cerdit card sized display / business card 
 
 ## Components
-500mAh 3.7V LiPo Battery  [ $8.57
-]([https://thepihut.com/products/3-x-aa-battery-holder-with-on-off-switch-jst-and-belt-clip?variant=31955884433](https://thepihut.com/products/500mah-3-7v-lipo-battery?variant=42143258280131))
+
+LiPo 3.7V 3000mAh [link](https://raspberrypi.dk/produkt/lipo-battery-3-7v-3000mah/)
+
 
 Raspberry Pi Pico with With Headers [$6.86
 ](https://thepihut.com/products/raspberry-pi-pico?variant=41925332566211)
@@ -13,3 +14,5 @@ Raspberry Pi Pico with With Headers [$6.86
 
  LiPo SHIM for Pico [$10.71
 ](https://thepihut.com/products/lipo-shim-for-pico?variant=39809509785795)
+
+total 78.27 usd 
